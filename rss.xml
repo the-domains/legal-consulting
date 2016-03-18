@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Legal Consulting]]></title>
+        <description><![CDATA[Legal Consulting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 17:11:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Legal Consulting]]></title>
+            <description><![CDATA[<article><h1>Legal Consulting</h1><p>We are an international full service law practice with a close and personal approach.</p></article>]]></description>
+            <link>undefinedlegal-consulting/index.html</link>
+            <guid isPermaLink="false">e0a61550-2e50-4e4b-a95d-87998b2b216f</guid>
+            <pubDate>Fri, 18 Mar 2016 17:11:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
