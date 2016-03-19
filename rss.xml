@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Legal Consulting]]></title>
         <description><![CDATA[Legal Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/legal-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 17:11:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 18:04:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/legal-consulting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<h1>About Us</h1>]]></description>
+            <link>https://thegrid.ai/legal-consulting/about-us/index.html</link>
+            <guid isPermaLink="false">d7e396b4-9ae5-4aa4-a3d4-d3b8baf53a9f</guid>
+            <pubDate>Sat, 19 Mar 2016 18:04:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Legal Consulting]]></title>
             <description><![CDATA[<article><h1>Legal Consulting</h1><p>We are an international full service law practice with a close and personal approach.</p></article>]]></description>
-            <link>undefinedlegal-consulting/index.html</link>
+            <link>https://thegrid.ai/legal-consulting/legal-consulting/index.html</link>
             <guid isPermaLink="false">e0a61550-2e50-4e4b-a95d-87998b2b216f</guid>
             <pubDate>Fri, 18 Mar 2016 17:11:45 GMT</pubDate>
         </item>
